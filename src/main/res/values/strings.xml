@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hajar Pattika</string>
+    <string name="welcome_message">\nTired of waiting for your teachers to update those attendance online? \n
+        Ever faced issues with not being able to know your immediate attendance? \n\n
+        Worry no more! With this app you can now update your attendance after each hour and keep track of your immediate attendance.</string>
+    <string name="version_developer">Version 2.0.1 \n Developed by Athul for EC7B</string>
+    <string name="text_plus">+</string>
+    <string name="text_minus">-</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="credits_heading">NOTICE</string>
+    <string name="my_name">Version 2.0.1 \nDeveloped by Athul for EC7B</string>
+    <string name="disclaimer_heading">DISCLAIMER</string>
+    <string name="disclaimer">This app is only for personal use and cannot be used to question or compare with
+        the attendance register of the teachers under any circumstainces</string>
+    <string name="data_heading">Note down the following data periodically to avoid data loss if app stops working or gets uninstalled \nData is of format: Subject name, classes attended and classes bunked</string>
+</resources>

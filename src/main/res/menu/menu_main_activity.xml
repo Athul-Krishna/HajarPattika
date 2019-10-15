@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/undo"
+        android:title="Undo"
+        android:icon="@drawable/undo_arrow_symbol"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/data"
+        android:title="Data"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/credits"
+        android:title="Credits"
+        app:showAsAction="never"/>
+</menu>
